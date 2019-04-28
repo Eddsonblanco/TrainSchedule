@@ -1,0 +1,77 @@
+body {
+    background-image: url("https://images.unsplash.com/photo-1527295110-5145f6b148d0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1317&q=80");
+    background-size: cover;
+    font-family: 'Share Tech', sans-serif;
+    letter-spacing: 4px;
+    
+}
+
+.jumbotron{
+    
+    background-color: #2e2b2b;
+    color: white;
+   
+    text-align: center;
+    padding: 30px;
+
+}
+
+.card {
+    border: gray solid 1px;
+    margin: 30px auto;
+    width: 80%;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    border-radius: 25px;
+    
+}
+
+.card-header {
+    background-color: rgba(0, 0, 0, 0.8);
+    border: gray solid 1px;
+    padding: 10px;
+    color: white;
+    font-size: 30px;
+    letter-spacing: 4px;
+}
+
+.form-group{
+    font-size: 20px ;
+}
+
+.table {
+    border: gray solid 1px;
+    padding: 10px;
+    color: white;
+}
+
+form {
+    width: 60%;
+    margin: 20px auto;
+}
+
+th {
+    background-color: rgba(0, 0, 0, 0.8);
+    font-size: 20px ;
+    text-align: center;
+}
+
+tr {
+    background-color: rgba(0, 0, 0, 0.8);
+    border: white solid 1px;
+    
+}
+    
+td {
+    text-align: center;
+    font-size: 16px !important;
+}
+
+.remove-button {
+    background: transparent;
+    border: none;
+    color: rgb(245, 230, 230);
+    padding: 10px 15px;
+    margin: 0px;
+    font-size: 24px;
+}
